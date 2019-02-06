@@ -1,7 +1,3 @@
-Integrantes
-Juan Martins CI 23707563
-Daniel Rodriguez CI 24883818
-
 Consideraciones:
 
 Los nombres de los archivos donde se encuentran los maestros son "agua.txt", "fuego.txt" y "tierra.txt" respectivamente.
